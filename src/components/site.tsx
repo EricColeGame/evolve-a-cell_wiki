@@ -74,9 +74,9 @@ export async function SiteFooter({ locale }: { locale: string }) {
 
   const guideLinks: string[][] = [
     [t("beginnerGuide"), "/guide/evolve-a-cell-beginner-guide"],
-    [t("raceGuides"), "/races"],
-    [t("bossGuides"), "/bosses"],
-    [t("buildGuide"), "/skills"],
+    [t("characterGuides"), "/characters"],
+    [t("combatGuides"), "/combat"],
+    [t("progressionGuides"), "/progression"],
     [t("privacyPolicy"), "/privacy-policy"],
     [t("termsOfService"), "/terms-of-service"],
   ];

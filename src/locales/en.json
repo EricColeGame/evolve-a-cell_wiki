@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "combat": "Combat",
+    "characters": "Characters",
+    "controls": "Controls",
+    "codes": "Codes",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -435,7 +443,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Evolve a Cell Guide",
+    "overviewDescription": "Start with the Evolve a Cell beginner guide, then work through the evolution, mutation, upgrades, and tips and tricks articles for a complete walkthrough."
+  },
+  "mechanics": {
+    "overviewTitle": "Evolve a Cell Mechanics",
+    "overviewDescription": "Learn how the evolution system, mutation system, skills, abilities, and rebirth mechanics actually work in Evolve a Cell."
+  },
+  "progression": {
+    "overviewTitle": "Evolve a Cell Progression",
+    "overviewDescription": "Plan your upgrade path, reach max level, and find the fastest evolution route with Evolve a Cell progression guides."
+  },
+  "combat": {
+    "overviewTitle": "Evolve a Cell Combat",
+    "overviewDescription": "Hunt creatures, win PvP fights, and take down the Colossus with Evolve a Cell combat and hunting guides."
+  },
+  "characters": {
+    "overviewTitle": "Evolve a Cell Characters",
+    "overviewDescription": "Compare every Evolve a Cell form, from organisms and planarians to human evolution, and pick the right body for your run."
+  },
+  "controls": {
+    "overviewTitle": "Evolve a Cell Controls",
+    "overviewDescription": "Evolve a Cell controls, keybinds, and a step-by-step how-to-play tutorial so you can start your first run without guessing."
+  },
+  "codes": {
+    "overviewTitle": "Evolve a Cell Codes",
+    "overviewDescription": "All Evolve a Cell codes, how to redeem them, and what each reward gives you."
+  },
+  "community": {
+    "overviewTitle": "Evolve a Cell Community",
+    "overviewDescription": "Official Evolve a Cell Discord and Reddit links, plus what to expect from the community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -466,9 +505,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Evolution Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Creature Forms",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Creature Forms",
+    "combatGuides": "Combat Guides",
+    "progressionGuides": "Progression Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

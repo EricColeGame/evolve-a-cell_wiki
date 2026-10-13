@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop in your first runs: swim, feed, dodge larger cells, and bank your mutation points before you spend them."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Push your evolution faster by buying resource-rate and movement upgrades first, then leave the starter zone once you can survive it."
         },
         {
           "number": "3",
           "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "description": "Find high-yield nutrient and biomass zones, keep a steady trickle of food coming, and avoid feast-and-famine cycles."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Evolve a Cell."
+          "title": "How to Evolve",
+          "description": "Meet each evolution gate by banking a surplus before you transition, then rebuild your two strongest upgrades first."
         }
       ]
     },
@@ -66,237 +66,333 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Evolution Guide",
+        "Best Upgrades",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "The core loop, first upgrades, and survival habits for your opening runs.",
+          "href": "/guide/evolve-a-cell-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "How Evolve a Cell codes work, where they are announced, and how to redeem them.",
+          "href": "/codes/evolve-a-cell-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Evolution Guide",
+          "description": "Stages, upgrade priorities, and the mistakes that stall your evolution.",
+          "href": "/guide/evolve-a-cell-evolution-guide"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Best Upgrades",
+          "description": "A stage-by-stage spending plan that avoids dead ends and flat stats.",
+          "href": "/progression/evolve-a-cell-best-upgrades"
+        },
+        {
+          "badge": "New",
+          "title": "Mutations Guide",
+          "description": "Rarity tiers, best rolls, and a repeatable farming loop for stronger cells.",
+          "href": "/guide/evolve-a-cell-mutations-guide"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Combat & Colossus",
+          "description": "How to grow a cell into an unstoppable combat form, stage by stage.",
+          "href": "/combat/evolve-a-cell-colossus"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Evolve a Cell?",
       "paragraphs": [
-        "Evolve a Cell is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Evolve a Cell is a free-to-play survival and growth game on Roblox where you play a single microscopic organism in a fluid environment. You swim, feed on nutrients, avoid larger cells, and convert everything you collect into permanent upgrades that carry your lineage forward.",
+        "Progression is the second layer: every run funds a longer evolution curve that unlocks new forms, faster movement, tougher membranes, and sharper senses. With no long tutorial and no penalty for restarting, the fastest way to improve is to learn the loop, bank your gains, and evolve deliberately."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Evolution Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Core Systems",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Evolution Stages",
+          "value": "5"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Play Styles",
+          "value": "3"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Cost",
+          "value": "Free to Play"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Evolve a Cell Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Everything you need to grow from a single cell into a dominant organism: beginner routes, evolution mechanics, upgrade priorities, and late-game strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "Evolve a Cell Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/evolve-a-cell-codes",
-          "displayType": "code-box",
+          "name": "Evolve a Cell Beginner Guide",
+          "description": "Get new players started with the core loop: what to eat, which upgrades to buy first, and which threats to swim away from in your first few runs.",
+          "href": "/guide/evolve-a-cell-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Practice movement first so you learn your turning radius and how momentum carries your cell."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Eat static nutrients early; chasing fast prey wastes energy you do not have yet."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Avoid fights with anything larger than you and treat distance as a resource."
+            },
+            {
+              "label": "4",
+              "detail": "Bank your first mutation points until you know what is actually killing you."
+            },
+            {
+              "label": "5",
+              "detail": "Watch your energy bar before your health bar, since running dry kills faster than predators."
+            },
+            {
+              "label": "6",
+              "detail": "End the run on purpose and bank your progress instead of gambling it away."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/evolve-a-cell-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Evolve a Cell Evolution Guide",
+          "description": "Understand how cell evolution works, including the core systems, growth paths, and the progression decisions that shape every run.",
+          "href": "/guide/evolve-a-cell-evolution-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Energy",
+              "detail": "Every action has a cost, and running out of energy dissolves your cell mid-move."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Biomass",
+              "detail": "Nutrients feed growth, unlock new structures, and raise your evolution ceiling."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Mutations",
+              "detail": "Permanent trait upgrades that compound when you spend them on the right problem."
+            },
+            {
+              "label": "Defense",
+              "detail": "Reinforced membranes and toxin resistance turn fatal hits into survivable ones."
+            },
+            {
+              "label": "Senses",
+              "detail": "Sensory range lets you spot predators and rich zones before it is too late."
+            },
+            {
+              "label": "Offense",
+              "detail": "Predation is the fastest growth path, but only once survival is already solved."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/evolve-a-cell-tier-list",
-          "displayType": "tier-grid",
+          "name": "Evolve a Cell Best Builds",
+          "description": "Compare recommended builds for different playstyles such as growth, defense, and survival, and learn which upgrade families are worth committing to.",
+          "href": "/guide/evolve-a-cell-upgrades-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Growth",
+              "detail": "Stack resource-rate and absorption upgrades so every later purchase pays for itself."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Speed",
+              "detail": "Movement and flagella upgrades make escaping and exploring cheaper than fighting."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Tank",
+              "detail": "Membrane and defense builds trade speed for the durability to survive hostile zones."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Balanced",
+              "detail": "A flexible hybrid keeps one slot open for whatever the next zone throws at you."
+            },
+            {
+              "label": "Storage",
+              "detail": "Vacuoles and capacity upgrades let you ride out scarcity and bank before evolving."
+            },
+            {
+              "label": "Sensory",
+              "detail": "Detection upgrades are the cheapest way to avoid ambushes and find rare spawns."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/evolve-a-cell-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Evolve a Cell Parts Tier List",
+          "description": "Rank the most important upgrades and evolution parts by how much they actually speed up a run, from must-buy multipliers to situational picks.",
+          "href": "/progression/evolve-a-cell-best-upgrades",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Resource-rate and absorption multipliers, buy these first in every single run."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Movement speed and stamina, since more ground covered means more resources per minute."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Membrane defense and sensory range, strong once survival stops being the bottleneck."
+            },
+            {
+              "label": "C",
+              "detail": "Size, mass, and cosmetic upgrades, powerful late, punishing early, and never urgent."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/evolve-a-cell-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Evolve a Cell Codes",
+          "description": "Track how Evolve a Cell codes work, where they are announced, and what rewards each type of code usually hands out.",
+          "href": "/codes/evolve-a-cell-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Currency",
+              "detail": "Soft-currency codes add spendable cash to your balance and can be redeemed any time."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "XP Boost",
+              "detail": "Growth and XP multipliers speed up evolution for a limited window, so redeem them before a long session."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "DNA Bundle",
+              "detail": "DNA and biomass bundles feed directly into evolution stages when you are stuck at a gate."
+            },
+            {
+              "label": "Cosmetics",
+              "detail": "Skin, trail, and aura codes are purely visual flair and are worth grabbing last."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/evolve-a-cell-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Evolve a Cell Boss Guide",
+          "description": "Prepare for late-game fights with large creatures and bosses, including stage-by-stage growth, mutation priorities, and positioning tips.",
+          "href": "/combat/evolve-a-cell-colossus",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Secure mobility and sustain before raw damage, because escaping wins more early fights than burst."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Feed in a safe pocket so your upkeep never outruns your income between fights."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Clear the colony-to-hunter gate, where you must win fights without full combat tools."
+            },
+            {
+              "label": "4",
+              "detail": "Stack armor and burst damage together to win one-on-one encounters consistently."
+            },
+            {
+              "label": "5",
+              "detail": "Contest territory and break boss encounters once your economy can fund the attempt."
+            },
+            {
+              "label": "6",
+              "detail": "Bank a surplus before the apex-to-colossus transition so the upkeep spike never stalls you."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Evolve a Cell Growth Guide",
+          "description": "Learn efficient ways to gather food, raise your income, and move out of the starter zone so your evolution compounds instead of stalling.",
+          "href": "/progression/evolve-a-cell-fastest-evolution",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gather",
+              "detail": "Absorb nutrients and biomass in your current habitat to fund the next upgrade."
+            },
+            {
+              "label": "Convert",
+              "detail": "Spend on gather-rate and efficiency upgrades before niche or cosmetic picks."
+            },
+            {
+              "label": "Unlock",
+              "detail": "Meet the next evolutionary tier requirement instead of hoarding resources."
+            },
+            {
+              "label": "Repeat",
+              "detail": "Rebuild at a higher baseline and re-buy your top two priorities first."
+            },
+            {
+              "label": "Zones",
+              "detail": "Leave the starter area once you can survive comfortably, since low yield caps growth."
+            },
+            {
+              "label": "Timing",
+              "detail": "Run focused twenty to thirty minute blocks and bank progress before you evolve."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Evolve a Cell Tips and Tricks",
+          "description": "Practical habits that keep a run moving, from spending discipline and rate-first upgrades to the mistakes that quietly stall your evolution.",
+          "href": "/guide/evolve-a-cell-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rate First",
+              "detail": "Buy upgrades that raise how fast your bar fills before flat stat boosts."
+            },
+            {
+              "label": "No Hoard",
+              "detail": "A banked currency earns nothing, so spend up to the next meaningful breakpoint."
+            },
+            {
+              "label": "Automate",
+              "detail": "Automation keeps producing while you idle and beats a one-time stat bump."
+            },
+            {
+              "label": "Compare",
+              "detail": "Judge upgrades by time saved, not by the size of the number on the button."
+            },
+            {
+              "label": "Review",
+              "detail": "Note what killed you each run and buy the trait that solves it next time."
+            },
+            {
+              "label": "Restart",
+              "detail": "If the opening two minutes go badly, a quick restart beats recovering a broken build."
             }
           ]
         }
@@ -308,23 +404,27 @@
       "items": [
         {
           "question": "What is Evolve a Cell?",
-          "answer": "Evolve a Cell is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Evolve a Cell is a free-to-play survival and growth game on Roblox where you play a single microscopic organism. You swim, feed on nutrients, avoid larger cells, and convert what you collect into permanent upgrades that unlock new forms and abilities."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Evolve a Cell free to play?",
+          "answer": "Yes. Evolve a Cell is free to play on Roblox, and it has no long tutorial or penalty for restarting, so new players can learn the core loop through short practice runs."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What should I upgrade first in Evolve a Cell?",
+          "answer": "Energy generation and digestion come before damage. In Evolve a Cell, a cell that cannot fund its own growth starves long before a predator ever reaches it."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I evolve faster in Evolve a Cell?",
+          "answer": "Buy resource-rate and movement upgrades first, leave the starter zone once you can survive it comfortably, and bank a surplus before every evolution gate so your upkeep never outruns your income."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Do Evolve a Cell codes exist?",
+          "answer": "Evolve a Cell codes are announced through the in-game code menu and the developer's official channels. Check those sources directly, redeem codes the moment you see them, and never trust generator sites."
+        },
+        {
+          "question": "How do I reach max evolution in Evolve a Cell?",
+          "answer": "Keep your income rising at every step. In Evolve a Cell, stack compound multipliers, avoid spreading upgrades evenly, and re-check the tier requirements each session so you never hoard past a gate."
         }
       ]
     },

@@ -31,6 +31,6 @@ export const siteConfig: SiteConfig = {
   social: {
     youtube: "https://www.youtube.com/results?search_query=evolve+a+cell+roblox",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };

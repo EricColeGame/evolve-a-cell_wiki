@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Evolve a Cell Wiki",
+    "shortName": "Evolve a Cell",
+    "tagline": "Guías de evolución, mutaciones, formas y códigos",
+    "description": "¡Tu guía definitiva de Evolve a Cell en Roblox! Explora etapas de evolución, estrategias de mutación, formas de criatura, mejores mejoras y consejos de progresión.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "combat": "Combate",
+    "characters": "Personajes",
+    "controls": "Controles",
+    "codes": "Códigos",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Evolve a Cell Wiki - Evolución, códigos y guías",
+      "description": "Evolve a Cell Wiki ofrece guías de evolución, consejos de mutación, ayuda con la progresión e información de juego para que los jugadores crezcan más rápido y dominen el crecimiento celular."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitaria de fans",
+      "title": "Evolve a Cell Wiki",
+      "description": "Domina tu evolución en Evolve a Cell de Roblox. Explora cada etapa de evolución, estrategia de mutación, forma de criatura, mejor mejora y ruta de progresión rápida.",
+      "stats": [
+        "Etapas de evolución",
+        "Mutaciones y formas",
+        "Guías de mejoras",
+        "Consejos de progresión"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Lista de niveles de evolución",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Evolve a Cell",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle principal en tus primeras partidas: nada, aliméntate, esquiva células más grandes y guarda tus puntos de mutación antes de gastarlos."
+        },
+        {
+          "number": "2",
+          "title": "Subida de nivel más rápida",
+          "description": "Impulsa tu evolución más rápido comprando primero las mejoras de tasa de recursos y movimiento, y abandona la zona inicial cuando puedas sobrevivir en ella."
+        },
+        {
+          "number": "3",
+          "title": "Mejores zonas de farmeo",
+          "description": "Encuentra zonas de nutrientes y biomasa de alto rendimiento, mantén un flujo constante de comida y evita los ciclos de exceso y escasez."
+        },
+        {
+          "number": "4",
+          "title": "Cómo evolucionar",
+          "description": "Supera cada umbral de evolución acumulando un excedente antes de la transición y vuelve a comprar primero tus dos mejores mejoras."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Guía de evolución",
+        "Mejores mejoras",
+        "Todos los códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "El bucle principal, las primeras mejoras y los hábitos de supervivencia para tus primeras partidas.",
+          "href": "/guide/evolve-a-cell-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Cómo funcionan los códigos de Evolve a Cell, dónde se anuncian y cómo canjearlos.",
+          "href": "/codes/evolve-a-cell-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de evolución",
+          "description": "Etapas, prioridades de mejora y los errores que estancan tu evolución.",
+          "href": "/guide/evolve-a-cell-evolution-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores mejoras",
+          "description": "Un plan de gasto etapa por etapa que evita callejones sin salida y estadísticas planas.",
+          "href": "/progression/evolve-a-cell-best-upgrades"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de mutaciones",
+          "description": "Niveles de rareza, mejores tiradas y un bucle de farmeo repetible para células más fuertes.",
+          "href": "/guide/evolve-a-cell-mutations-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Combate y Colossus",
+          "description": "Cómo convertir una célula en una forma de combate imparable, etapa por etapa.",
+          "href": "/combat/evolve-a-cell-colossus"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Evolve a Cell?",
+      "paragraphs": [
+        "Evolve a Cell es un juego de supervivencia y crecimiento gratuito en Roblox en el que controlas un único organismo microscópico en un entorno fluido. Nadas, te alimentas de nutrientes, evitas células más grandes y conviertes todo lo que recoges en mejoras permanentes que hacen avanzar tu linaje.",
+        "La progresión es la segunda capa: cada partida financia una curva de evolución más larga que desbloquea nuevas formas, movimiento más rápido, membranas más resistentes y sentidos más agudos. Sin un tutorial largo ni penalización por reiniciar, la forma más rápida de mejorar es aprender el bucle, guardar tus logros y evolucionar con intención."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de evolución"
+        },
+        {
+          "label": "Sistemas principales",
+          "value": "5"
+        },
+        {
+          "label": "Etapas de evolución",
+          "value": "5"
+        },
+        {
+          "label": "Estilos de juego",
+          "value": "3"
+        },
+        {
+          "label": "Coste",
+          "value": "Gratis"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Evolve a Cell Wiki",
+      "description": "Todo lo que necesitas para pasar de una sola célula a un organismo dominante: rutas para principiantes, mecánicas de evolución, prioridades de mejora y estrategias de fin de partida.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Evolve a Cell",
+          "description": "Ayuda a los nuevos jugadores a empezar con el bucle principal: qué comer, qué mejoras comprar primero y de qué amenazas alejarte en tus primeras partidas.",
+          "href": "/guide/evolve-a-cell-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Practica primero el movimiento para aprender tu radio de giro y cómo el impulso arrastra tu célula."
+            },
+            {
+              "label": "2",
+              "detail": "Come nutrientes estáticos al principio; perseguir presas rápidas desperdicia energía que aún no tienes."
+            },
+            {
+              "label": "3",
+              "detail": "Evita pelear con cualquier cosa más grande que tú y trata la distancia como un recurso."
+            },
+            {
+              "label": "4",
+              "detail": "Guarda tus primeros puntos de mutación hasta que sepas qué te está matando realmente."
+            },
+            {
+              "label": "5",
+              "detail": "Vigila tu barra de energía antes que tu barra de salud, porque quedarte sin energía mata más rápido que los depredadores."
+            },
+            {
+              "label": "6",
+              "detail": "Termina la partida a propósito y guarda tu progreso en lugar de arriesgarlo."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de evolución de Evolve a Cell",
+          "description": "Comprende cómo funciona la evolución celular, incluidos los sistemas principales, las rutas de crecimiento y las decisiones de progresión que dan forma a cada partida.",
+          "href": "/guide/evolve-a-cell-evolution-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Energía",
+              "detail": "Cada acción tiene un coste, y quedarte sin energía disuelve tu célula a mitad de movimiento."
+            },
+            {
+              "label": "Biomasa",
+              "detail": "Los nutrientes alimentan el crecimiento, desbloquean nuevas estructuras y elevan tu techo de evolución."
+            },
+            {
+              "label": "Mutaciones",
+              "detail": "Mejoras de rasgos permanentes que se acumulan cuando las gastas en el problema correcto."
+            },
+            {
+              "label": "Defensa",
+              "detail": "Las membranas reforzadas y la resistencia a toxinas convierten golpes fatales en sobrevivibles."
+            },
+            {
+              "label": "Sentidos",
+              "detail": "El alcance sensorial te permite detectar depredadores y zonas ricas antes de que sea tarde."
+            },
+            {
+              "label": "Ataque",
+              "detail": "La depredación es la vía de crecimiento más rápida, pero solo cuando la supervivencia ya está resuelta."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mejores builds de Evolve a Cell",
+          "description": "Compara builds recomendadas para distintos estilos de juego, como crecimiento, defensa y supervivencia, y aprende en qué familias de mejoras vale la pena invertir.",
+          "href": "/guide/evolve-a-cell-upgrades-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Crecimiento",
+              "detail": "Acumula mejoras de tasa de recursos y absorción para que cada compra posterior se pague sola."
+            },
+            {
+              "label": "Velocidad",
+              "detail": "Las mejoras de movimiento y flagelos hacen que escapar y explorar sea más barato que luchar."
+            },
+            {
+              "label": "Tanque",
+              "detail": "Las builds de membrana y defensa cambian velocidad por la resistencia para sobrevivir en zonas hostiles."
+            },
+            {
+              "label": "Equilibrado",
+              "detail": "Un híbrido flexible mantiene una ranura libre para lo que te depare la siguiente zona."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Las vacuolas y las mejoras de capacidad te permiten resistir la escasez y ahorrar antes de evolucionar."
+            },
+            {
+              "label": "Sensorial",
+              "detail": "Las mejoras de detección son la forma más barata de evitar emboscadas y encontrar apariciones raras."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lista de niveles de partes de Evolve a Cell",
+          "description": "Clasifica las mejoras y partes de evolución más importantes según cuánto aceleran realmente una partida, desde multiplicadores imprescindibles hasta elecciones situacionales.",
+          "href": "/progression/evolve-a-cell-best-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Multiplicadores de tasa de recursos y absorción; cómpralos primero en cada partida."
+            },
+            {
+              "label": "A",
+              "detail": "Velocidad de movimiento y resistencia, porque cubrir más terreno significa más recursos por minuto."
+            },
+            {
+              "label": "B",
+              "detail": "Defensa de membrana y alcance sensorial, fuertes cuando la supervivencia deja de ser el cuello de botella."
+            },
+            {
+              "label": "C",
+              "detail": "Mejoras de tamaño, masa y cosméticas: potentes al final, castigadoras al principio y nunca urgentes."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Códigos de Evolve a Cell",
+          "description": "Sigue cómo funcionan los códigos de Evolve a Cell, dónde se anuncian y qué recompensas suele entregar cada tipo de código.",
+          "href": "/codes/evolve-a-cell-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Moneda",
+              "detail": "Los códigos de moneda blanda añaden efectivo gastable a tu saldo y pueden canjearse en cualquier momento."
+            },
+            {
+              "label": "Impulso de XP",
+              "detail": "Los multiplicadores de crecimiento y XP aceleran la evolución durante una ventana limitada, así que canjéalos antes de una sesión larga."
+            },
+            {
+              "label": "Paquete de ADN",
+              "detail": "Los paquetes de ADN y biomasa alimentan directamente las etapas de evolución cuando estás atascado en un umbral."
+            },
+            {
+              "label": "Cosméticos",
+              "detail": "Los códigos de aspecto, estela y aura son puro adorno visual y vale la pena conseguirlos al final."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de jefes de Evolve a Cell",
+          "description": "Prepárate para los combates de fin de partida contra criaturas grandes y jefes, incluido el crecimiento etapa por etapa, las prioridades de mutación y los consejos de posicionamiento.",
+          "href": "/combat/evolve-a-cell-colossus",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Asegura movilidad y sustento antes que daño bruto, porque escapar gana más combates tempranos que el estallido."
+            },
+            {
+              "label": "2",
+              "detail": "Aliméntate en un refugio seguro para que tu mantenimiento nunca supere tus ingresos entre combates."
+            },
+            {
+              "label": "3",
+              "detail": "Supera el umbral de colonia a cazador, donde debes ganar combates sin todas las herramientas de combate."
+            },
+            {
+              "label": "4",
+              "detail": "Combina armadura y daño explosivo para ganar encuentros uno contra uno de forma constante."
+            },
+            {
+              "label": "5",
+              "detail": "Disputa territorio y rompe los encuentros con jefes cuando tu economía pueda financiar el intento."
+            },
+            {
+              "label": "6",
+              "detail": "Guarda un excedente antes de la transición de ápice a coloso para que el pico de mantenimiento nunca te detenga."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de crecimiento de Evolve a Cell",
+          "description": "Aprende formas eficientes de recolectar comida, aumentar tus ingresos y salir de la zona inicial para que tu evolución se acumule en lugar de estancarse.",
+          "href": "/progression/evolve-a-cell-fastest-evolution",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Recolecta",
+              "detail": "Absorbe nutrientes y biomasa en tu hábitat actual para financiar la siguiente mejora."
+            },
+            {
+              "label": "Convierte",
+              "detail": "Gasta en mejoras de tasa de recolección y eficiencia antes que en elecciones de nicho o cosméticas."
+            },
+            {
+              "label": "Desbloquea",
+              "detail": "Cumple el requisito del siguiente nivel evolutivo en lugar de acumular recursos."
+            },
+            {
+              "label": "Repite",
+              "detail": "Reconstruye desde una base más alta y vuelve a comprar primero tus dos prioridades principales."
+            },
+            {
+              "label": "Zonas",
+              "detail": "Abandona la zona inicial cuando puedas sobrevivir cómodamente, ya que el bajo rendimiento limita el crecimiento."
+            },
+            {
+              "label": "Ritmo",
+              "detail": "Haz bloques concentrados de veinte a treinta minutos y guarda el progreso antes de evolucionar."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Consejos y trucos de Evolve a Cell",
+          "description": "Hábitos prácticos que mantienen una partida en marcha, desde la disciplina de gasto y las mejoras de tasa primero hasta los errores que estancan silenciosamente tu evolución.",
+          "href": "/guide/evolve-a-cell-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tasa primero",
+              "detail": "Compra mejoras que aumenten la velocidad con la que se llena tu barra antes que los aumentos planos de estadísticas."
+            },
+            {
+              "label": "No acumules",
+              "detail": "Una moneda guardada no genera nada, así que gasta hasta el siguiente punto de ruptura significativo."
+            },
+            {
+              "label": "Automatiza",
+              "detail": "La automatización sigue produciendo mientras estás inactivo y supera a un aumento puntual de estadísticas."
+            },
+            {
+              "label": "Compara",
+              "detail": "Juzga las mejoras por el tiempo que ahorran, no por el tamaño del número en el botón."
+            },
+            {
+              "label": "Revisa",
+              "detail": "Anota qué te mató en cada partida y compra el rasgo que lo resuelva la próxima vez."
+            },
+            {
+              "label": "Reinicia",
+              "detail": "Si los dos primeros minutos van mal, un reinicio rápido supera a recuperar una build rota."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Evolve a Cell.",
+      "items": [
+        {
+          "question": "¿Qué es Evolve a Cell?",
+          "answer": "Evolve a Cell es un juego de supervivencia y crecimiento gratuito en Roblox en el que controlas un único organismo microscópico. Nadas, te alimentas de nutrientes, evitas células más grandes y conviertes lo que recoges en mejoras permanentes que desbloquean nuevas formas y habilidades."
+        },
+        {
+          "question": "¿Evolve a Cell es gratis?",
+          "answer": "Sí. Evolve a Cell es gratis en Roblox y no tiene un tutorial largo ni penalización por reiniciar, así que los nuevos jugadores pueden aprender el bucle principal con partidas cortas de práctica."
+        },
+        {
+          "question": "¿Qué debería mejorar primero en Evolve a Cell?",
+          "answer": "La generación de energía y la digestión van antes que el daño. En Evolve a Cell, una célula que no puede financiar su propio crecimiento muere de inanición mucho antes de que la alcance un depredador."
+        },
+        {
+          "question": "¿Cómo evoluciono más rápido en Evolve a Cell?",
+          "answer": "Compra primero las mejoras de tasa de recursos y movimiento, abandona la zona inicial cuando puedas sobrevivir cómodamente y guarda un excedente antes de cada umbral de evolución para que tu mantenimiento nunca supere tus ingresos."
+        },
+        {
+          "question": "¿Existen códigos de Evolve a Cell?",
+          "answer": "Los códigos de Evolve a Cell se anuncian a través del menú de códigos del juego y los canales oficiales del desarrollador. Consulta esas fuentes directamente, canjea los códigos en cuanto los veas y nunca confíes en sitios generadores."
+        },
+        {
+          "question": "¿Cómo alcanzo la evolución máxima en Evolve a Cell?",
+          "answer": "Mantén tus ingresos en aumento en cada paso. En Evolve a Cell, acumula multiplicadores compuestos, evita repartir las mejoras de forma uniforme y revisa los requisitos de nivel en cada sesión para no acumular más allá de un umbral."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Evolve a Cell?",
+      "description": "Desde tu primera célula hasta formas de vida avanzadas, nuestra wiki comunitaria te cubre con guías de evolución gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Juega en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Evolve a Cell",
+    "overviewDescription": "Empieza con la guía para principiantes de Evolve a Cell y luego repasa los artículos de evolución, mutaciones, mejoras y consejos y trucos para un recorrido completo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Evolve a Cell",
+    "overviewDescription": "Aprende cómo funcionan realmente el sistema de evolución, el sistema de mutación, las habilidades, las capacidades y las mecánicas de renacimiento en Evolve a Cell."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Evolve a Cell",
+    "overviewDescription": "Planifica tu ruta de mejoras, alcanza el nivel máximo y encuentra la ruta de evolución más rápida con las guías de progresión de Evolve a Cell."
+  },
+  "combat": {
+    "overviewTitle": "Combate de Evolve a Cell",
+    "overviewDescription": "Caza criaturas, gana combates PvP y derrota al Colossus con las guías de combate y caza de Evolve a Cell."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Evolve a Cell",
+    "overviewDescription": "Compara cada forma de Evolve a Cell, desde organismos y planarias hasta la evolución humana, y elige el cuerpo adecuado para tu partida."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Evolve a Cell",
+    "overviewDescription": "Controles de Evolve a Cell, atajos de teclado y un tutorial paso a paso para que puedas empezar tu primera partida sin adivinar."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Evolve a Cell",
+    "overviewDescription": "Todos los códigos de Evolve a Cell, cómo canjearlos y qué te da cada recompensa."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Evolve a Cell",
+    "overviewDescription": "Enlaces oficiales al Discord y Reddit de Evolve a Cell, además de qué esperar de la comunidad."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Evolve a Cell Wiki",
+    "about": "Evolve a Cell Wiki es un centro de guías independiente creado por fans que cubre etapas de evolución, mutaciones, formas de criatura, mejoras y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Evolve a Cell Wiki. Sin afiliación con los desarrolladores de Evolve a Cell ni con Roblox.",
+    "description": "Simulador gratuito de evolución celular en Roblox. Múltiples etapas de evolución, mutaciones y formas de criatura.",
+    "playGame": "Juega a Evolve a Cell",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de evolución",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Formas de criatura",
+    "combatGuides": "Guías de combate",
+    "progressionGuides": "Guía de progresión",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

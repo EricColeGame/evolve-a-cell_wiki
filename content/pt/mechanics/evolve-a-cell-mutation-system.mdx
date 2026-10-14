@@ -1,120 +1,87 @@
 export const metadata = {
-  title: "Sistema de Mutação do Evolve a Cell Explicado: Como as Mutações Impulsionam a Evolução",
-  description: "Aprenda como funciona o sistema de mutação do Evolve a Cell, de pontos de mutação e níveis de raridade a builds, sinergias e os erros que travam sua evolução.",
+  title: "Evolve a Cell: Como Funcionam a Evolução, a Alimentação e as Criaturas Personalizadas",
+  description: "Um guia prático para Evolve a Cell no Roblox: recursos de evolução anunciados, dicas relatadas pela comunidade e o que a página oficial não documenta.",
   category: "mechanics",
-  date: "2026-10-13",
-}
+  date: "2026-10-14",
+};
 
-Toda run em um jogo de evolução de células começa do mesmo ponto humilde: um organismo minúsculo, com quase nenhuma habilidade e uma estrada longa e hostil pela frente. O que separa uma run que trava nos primeiros níveis de outra que cresce em bola de neve até se tornar uma forma de vida dominante e altamente especializada é, normalmente, a mesma coisa — o **sistema de mutação do Evolve a Cell**. Entendê-lo é a diferença entre adivinhar melhorias e conduzir sua evolução com intenção.
+Se você já jogou algum criador de criaturas antes, o ciclo de [Evolve a Cell](https://www.roblox.com/games/75545101555306/Evolve-a-Cell) vai parecer familiar da melhor forma possível: comece pequeno, coma, cresça e modele algo capaz de sobreviver a um lago cheio de coisas que querem te devorar. A diferença está na escala. Você começa como uma célula minúscula, não como um herói, e o lago não se importa se você é um jogador novo ou um veterano. A página oficial do Roblox descreve a promessa central de forma clara, e essa descrição é a base mais segura para entender o jogo antes de passar horas nele.
 
-Isso importa porque o sistema de mutação do Evolve a Cell governa silenciosamente cada decisão significativa que você toma. Ele decide quais traços você pode desbloquear, com que rapidez eles se acumulam, quais combinações são sequer possíveis e quão punitiva uma escolha ruim no início se torna vinte minutos depois. Trate-o como um caça-níqueis e você vai estagnar rápido. Trate-o como um sistema com regras, trade-offs e pontos de virada, e você pode planejar uma run em vez de apenas sobreviver a ela.
+Este artigo separa três coisas: o que o desenvolvedor realmente anuncia, o que guias de terceiros e jogadores relatam, e o que simplesmente não está documentado em nenhum lugar confiável. Essa última categoria é a mais importante, porque pesquisar por "Evolve a Cell" frequentemente revela listas que parecem confiáveis, com nomes de mutações, custos ou códigos que a página oficial não sustenta.
 
-## O Que o Sistema de Mutação do Evolve a Cell Realmente Controla
+## O Que a Página Oficial Realmente Diz
 
-Em sua essência, o sistema de mutação do Evolve a Cell é o conjunto de regras que determina quais traços genéticos seu organismo pode adquirir, quando eles ficam disponíveis e como se comportam depois de fixados. A maioria das implementações desse tipo de sistema administra cinco partes móveis ao mesmo tempo, e cada uma molda sua estratégia de forma diferente.
+O registro do Roblox é a autoridade aqui. Evolve a Cell foi criado pelo grupo Splitline: Creative, o lugar foi criado em 2026-09-26 e atualizado pela última vez em 2026-10-13, e suporta até 16 jogadores por servidor. No momento da consulta, tinha cerca de 2,3 milhões de visitas e aproximadamente 5.000 jogadores online.
 
-| Componente do sistema | O que ele decide | Por que importa para você |
-|---|---|---|
-| Moeda de mutação (pontos, energia, biomassa) | Como você paga por novos traços | Força priorização — você não pode comprar tudo |
-| Pool de mutações ou árvore gênica | Quais traços podem aparecer | Define a identidade da sua run |
-| Slots de traços | Quantas mutações você pode manter simultaneamente | Limita quantas sinergias você pode montar |
-| Pesos de raridade e chances de sorteio | Com que frequência traços poderosos aparecem | Impulsiona o valor de replay e a tolerância a risco |
-| Regras de acúmulo e conflito | Se duplicatas melhoram, se fundem ou se cancelam | Separa uma build forte de uma build quebrada |
+A descrição oficial anuncia um conjunto específico de recursos:
 
-O ponto principal é que esses componentes interagem. Uma renda generosa de moeda não significa nada se sua quantidade de slots for minúscula, e um pool enorme de mutações é uma desvantagem se suas chances de sorteio forem inclinadas para traços de preenchimento. Bons jogadores leem todos os cinco antes de se comprometer com uma direção.
+- Você é uma célula minúscula em um lago cheio de coisas famintas.
+- Você come plantas ou caça outras células, incluindo outros jogadores.
+- Você evolui adicionando mandíbulas, espinhos, olhos, caudas e mais.
+- Você modela e pinta sua própria criatura.
+- Você cresce muito e derrota chefes gigantes.
+- O desenvolvedor descreve o jogo como inspirado em Spore.
 
-Se você quer entender por que as mecânicas de mutação são projetadas com trade-offs desde o início, ajuda observar [como mutações do mundo real se acumulam e interagem](https://en.wikipedia.org/wiki/Mutation) — o design do jogo se inspira fortemente nessa lógica.
+Esse é todo o conjunto de recursos anunciado. Observe o que está faltando: nenhum custo de mutação, nenhum número de DNA ou biomassa, nenhuma lista de estágios, nenhum nome de chefe, nenhum código e nenhuma tecla de atalho. Se uma página afirma fornecer valores exatos para qualquer um desses itens, trate como não verificado. O desenvolvedor não os publicou, e este artigo não vai inventá-los.
 
-### Aleatoriedade vs. Controle
+## O Ciclo Central: Coma, Evolua, Sobreviva
 
-Quase todo jogo de evolução de células mistura sorte com agência. Você raramente pode escolher qualquer traço a qualquer momento. Em vez disso, você ganha um sorteio, vê um pequeno conjunto de opções e escolhe entre o que lhe é oferecido. Relatos da comunidade descrevem consistentemente o mesmo padrão: os jogadores mais fortes não são os mais sortudos, e sim os que constroem organismos flexíveis capazes de usar o que quer que o sistema lhes entregue.
+O ciclo anunciado tem dois caminhos de alimentação. Você pode comer plantas, que é a opção de menor risco, ou caçar outras células, o que inclui outros jogadores. Células controladas por jogadores são o fator imprevisível. Um lago com 16 jogadores significa que a cadeia alimentar não é fixa; a célula que era presa há um minuto pode desenvolver mandíbulas e se tornar a ameaça.
 
-## Como as Mutações São Adquiridas: O Loop Principal
+A evolução é o ponto de virada. A página oficial agrupa mandíbulas, espinhos, olhos e caudas, o que sugere que esses são os tipos de partes que você adiciona conforme se desenvolve. O que ela não diz é quantas partes você pode carregar, se existem níveis ou pré-requisitos, ou como o jogo controla a progressão. Essas são exatamente as perguntas que um jogador novo quer responder, e é melhor respondê-las no jogo do que por um guia que pode estar apenas adivinhando.
 
-O loop de aquisição é onde a maioria dos novos jogadores perde eficiência. Normalmente, ele se parece com isto:
+A implicação prática é simples: suas escolhas iniciais devem servir à sobrevivência, não a um guia de build que você encontrou online. Como o lago contém outros jogadores, um início agressivo de caça traz mais risco do que um início comendo plantas, mas também pode te fazer crescer mais rápido se você conseguir evitar se tornar a refeição de alguém.
 
-| Etapa do loop | O que você faz | O que você recebe |
-|---|---|---|
-| Crescimento | Consumir nutrientes, presas ou luz | Energia ou biomassa acumulada |
-| Limiar | Alcançar uma quantidade definida desse recurso | Acesso a um sorteio ou escolha de mutação |
-| Seleção | Escolher entre mutações oferecidas, ou rerrolar | Um traço para investir |
-| Fixação | Atribuir o traço a um slot | Uma mudança permanente no seu organismo |
-| Pressão | O ambiente muda — predadores, escassez, temperatura | Um motivo para se adaptar ou morrer |
-| Herança | Reproduzir, dividir ou avançar uma geração | Traços levados para o próximo estágio |
+## Número de Jogadores e o Que Isso Significa para Você
 
-Alguns hábitos práticos tornam esse loop muito mais tolerante:
+| Detalhe anunciado | Registro oficial |
+| --- | --- |
+| Criador | Grupo Splitline: Creative |
+| Lugar criado | 2026-09-26 |
+| Última atualização | 2026-10-13 |
+| Tamanho do servidor | Até 16 jogadores |
+| Visitas na consulta | Cerca de 2,3 milhões |
+| Jogadores online na consulta | Aproximadamente 5.000 |
 
-- **Guarde moeda antes de um salto de nível.** Segurar recursos até que um novo nível seja desbloqueado costuma dar acesso a opções mais fortes do que gastar imediatamente em preenchimento.
-- **Rerrole quando seu pool for raso.** No início de uma run, quando existem apenas alguns traços, rerrolar é barato em relação ao seu valor. Mais tarde, geralmente é uma armadilha.
-- **Nunca preencha seu último slot sem pensar.** O slot final é sua escolha flexível. Mantenha-o aberto até saber o que o ambiente está jogando contra você.
-- **Observe a pressão, não os números.** Se predadores estão aparecendo, um traço defensivo ou de mobilidade supera um aumento bruto de atributo todas as vezes.
+Esses números dizem algo útil sobre o estágio de vida do jogo. Não é um experimento de semana de lançamento, nem um título enorme e estabelecido. Com milhares de jogadores simultâneos, entrar em um servidor deve ser rápido, o que significa que você vai compartilhar um lago com estranhos regularmente. Isso tem duas consequências. Primeiro, outros jogadores vão te caçar, então o posicionamento inicial importa. Segundo, o jogo está sendo atualizado ativamente, então qualquer guia escrito meses atrás pode já estar desatualizado. Verifique a página oficial para a data da última atualização antes de confiar em conselhos mais antigos.
 
-A experiência dos jogadores sugere que as runs são ganhas ou perdidas nas duas ou três primeiras seleções. Depois que seu organismo tem uma direção clara, as escolhas posteriores em geral apenas a reforçam.
+## Observações da Comunidade vs. Fatos Documentados
 
-## Níveis de Mutação, Raridade e Custo de Oportunidade
+Guias de terceiros e discussões entre jogadores são observações secundárias, não documentação do desenvolvedor. Eles podem ser genuinamente úteis para orientação, mas nunca devem ser tratados como notas de atualização. Aqui está uma forma razoável de classificá-los:
 
-Os níveis de raridade existem para criar tensão, mas raridade não é a mesma coisa que valor. Um traço raro que não se encaixa no seu organismo é pior do que um traço comum que completa uma sinergia.
+- **Confiável:** observações sobre dificuldade geral, o risco de caçar jogadores e o valor de aprender o layout do lago. Isso decorre do design anunciado.
+- **Trate com cautela:** afirmações sobre quais combinações de mutação são "melhores". Isso depende de mudanças de balanceamento que o desenvolvedor não documentou publicamente.
+- **Não confie de forma alguma:** qualquer lista de códigos, custos de mutação, valores de DNA, nomes de chefes ou nomes de estágios apresentada como fato. A página oficial não documenta nada disso. Ela não anuncia códigos promocionais, então qualquer site que ofereça "códigos de Evolve a Cell" está trabalhando com algo que não é informação do desenvolvedor.
 
-| Nível | Disponibilidade típica | Perfil de custo | Melhor uso |
-|---|---|---|---|
-| Básico / comum | Disponível desde o início | Barato, baixo impacto | Preencher lacunas iniciais, habilitar pré-requisitos |
-| Avançado / incomum | Desbloqueia após os primeiros limiares | Moderado | Definir seu papel principal |
-| Raro / especializado | Exige pré-requisitos específicos | Caro | Picos de poder e efeitos que definem a build |
-| Ápice / lendário | Sorteio raro, muitas vezes bloqueado por geração | Muito caro | Vencer uma run que você já estabilizou |
-| De dois gumes | Pool misto, às vezes forçado | Variável | Estratégias de alto risco e jogadores experientes |
+O método de verificação mais limpo é o próprio jogo. Abra a página oficial, inicie a experiência e observe a interface que sua primeira célula vê. Se uma parte existe, você vai vê-la sendo oferecida. Se um custo existe, a interface vai mostrá-lo. Se um chefe existe, você vai encontrá-lo jogando. Nenhum guia pode substituir isso.
 
-O conceito que une esta tabela é o **custo de oportunidade**. Cada slot que você preenche é um slot que você não pode mais usar. Cada ponto gasto em um atributo generalista é um ponto indisponível para o traço que teria completado sua build. O sistema de mutação do Evolve a Cell recompensa jogadores que aceitam que não podem ter tudo e, ainda assim, se comprometem.
+## Personalização e Chefes: Os Objetivos de Longo Prazo
 
-## Montando um Loadout de Mutações Que Realmente Funciona
+Dois recursos anunciados merecem atenção porque são o que separa este jogo de um simples simulador de alimentação. O primeiro é a personalização da criatura: você modela e pinta sua própria criatura. A descrição oficial trata isso como um recurso central, e não como um detalhe cosmético secundário, o que sugere que as opções de aparência fazem parte da identidade da sua célula, e não de uma skin aplicada no final.
 
-### Especialize-se Primeiro, Generalize Depois
+O segundo são os chefes. A página diz que você cresce muito e derrota chefes gigantes. O que ela não diz é quantos chefes existem, como se chamam, onde aparecem ou o que acontece quando você derrota um. Isso não está documentado. Se você quer encontrá-los, a resposta honesta é que você joga até ficar grande o suficiente e explora até encontrar um.
 
-Uma célula que é decente em tudo tende a perder para uma célula que é excelente em uma coisa e apenas adequada no resto. Escolha um papel principal cedo — ataque, defesa, geração de energia, mobilidade ou comportamento de colônia — e deixe a primeira metade da sua run servir a esse papel. Diversifique apenas quando seu núcleo estiver funcional, normalmente para corrigir uma fraqueza óbvia em vez de perseguir uma nova identidade.
+Como o desenvolvedor credita Spore como inspiração, é tentador assumir que Evolve a Cell copia exatamente o estágio de célula de Spore. Não se conclui que sim, e assumir as partes específicas ou a progressão de Spore seria um erro. As partes anunciadas aqui são mandíbulas, espinhos, olhos e caudas, o que é uma lista menor e mais específica do que um jogador talvez se lembre de Spore. Aceite o jogo nos próprios termos dele.
 
-### Sinergia Supera Atributos Brutos
+## Abordagem Prática para Jogadores Novos
 
-Dois traços que se amplificam superam dois traços individualmente mais fortes que não interagem. Antes de pegar uma mutação, pergunte o que ela multiplica. Um traço que aumenta a ingestão de energia vale muito mais se você já tem um traço que converte energia em crescimento.
+Uma primeira sessão sensata é assim. Nasça como uma célula, aprenda como as plantas se parecem e onde se agrupam, e coma o suficiente para sobreviver sem arrumar briga. Depois adicione uma parte defensiva ou de alimentação e teste como o lago reage. Só depois de entender o ritmo você deve tentar caçar outros jogadores, porque a parte punitiva de um lago com 16 jogadores não é o ambiente; são as outras células que também estão evoluindo.
 
-| Arquétipo | Mutações centrais a procurar | Pontos fortes | Pontos fracos |
-|---|---|---|---|
-| Predador | Ataque, digestão, alcance sensorial | Crescimento inicial rápido, escala muito bem | Frágil se o suprimento de comida cair |
-| Fortaleza | Membrana, armadura, resistência a toxinas | Sobrevive a ambientes hostis | Expande devagar, ataque fraco |
-| Fototrófico | Absorção de luz, armazenamento de energia | Renda de recursos confiável | Tem dificuldade em zonas escuras ou lotadas |
-| Simbionte | Fixação, recursos compartilhados, traços de colônia | Excelente escalonamento com aliados | Depende de outros organismos sobreviverem |
-| Velocista | Mobilidade, velocidade de reprodução, metabolismo | Supera a concorrência, gerações rápidas | Consome recursos rapidamente |
+Mantenha suas expectativas calibradas. A página oficial promete uma progressão de célula minúscula a matador de chefes, mas não promete um cronograma fixo nem uma build garantida. O progresso depende de como você joga e de como o lago te trata. Nada neste artigo garante sucesso, e nenhum guia pode garantir, porque os outros jogadores no seu servidor são metade do desafio.
 
-### Quando Reiniciar ou Redistribuir
+## FAQ
 
-Reiniciar não é um estado de fracasso — é uma ferramenta. Considere um recomeço quando:
+**Evolve a Cell tem códigos?**
+A página oficial do Roblox não documenta nenhum código e não anuncia um sistema de códigos. Qualquer lista de códigos que você encontrar em outro lugar é não verificada.
 
-- Seu organismo tem três ou mais traços que não interagem entre si.
-- Você passou da metade de uma run e ainda não tem um motor de recursos confiável.
-- O ambiente mudou para um nicho que sua build fundamentalmente não consegue lidar.
-- Você preencheu todos os slots com preenchimento barato e não tem espaço para um pico de poder.
+**Quantos jogadores há em um servidor?**
+Até 16, de acordo com o registro oficial.
 
-## Erros Comuns Que Travam Sua Evolução
+**É a mesma coisa que Spore?**
+Não. O desenvolvedor o descreve como inspirado em Spore. É uma experiência separada no Roblox, com suas próprias partes e recursos anunciados.
 
-| Erro | Por que prejudica | Abordagem melhor |
-|---|---|---|
-| Perseguir raridade em vez de encaixe | Traços raros muitas vezes exigem pré-requisitos que você não tem | Pegue o traço comum que completa uma sinergia |
-| Espalhar-se por todos os ramos | Dilui seus pontos fortes sem cobrir fraquezas | Comprometa-se com um papel principal por run |
-| Ignorar o ambiente | Uma build que não sobrevive à pressão atual nunca escala | Leia os sinais de pressão antes de gastar |
-| Acumular moeda indefinidamente | Recursos não gastos não geram crescimento | Defina um limite de gasto e siga-o |
-| Pular defesa por completo | Um encontro ruim encerra uma run que seria ótima | Mantenha um traço de sobrevivência na reserva |
-| Rerrolar constantemente | Desperdiça a moeda que financia melhorias reais | Rerrole cedo, gaste tarde |
+**Como eu evoluo?**
+A descrição oficial diz que você adiciona mandíbulas, espinhos, olhos, caudas e mais. Os custos e requisitos específicos não são documentados publicamente, então verifique a interface no jogo.
 
-A maioria desses erros compartilha uma causa raiz: tratar o sistema de mutação do Evolve a Cell como uma série de escolhas independentes em vez de uma build conectada. Jogadores que acompanham seu loadout como um todo — e que sabem exatamente no que seu organismo está tentando se tornar — superam consistentemente jogadores que escolhem a opção mais brilhante na tela.
-
-## Perguntas frequentes
-
-**O que é o sistema de mutação do Evolve a Cell?**
-É o conjunto de regras que governa como seu organismo adquire, armazena e combina traços genéticos — incluindo a moeda que você gasta, o pool de mutações disponíveis, seus slots de traços e a forma como as mutações se acumulam ou entram em conflito.
-
-**As mutações são aleatórias ou posso escolhê-las?**
-Normalmente é uma mistura das duas coisas. Você geralmente ganha um sorteio ou uma pequena seleção de opções e então escolhe entre o que é oferecido, e é por isso que builds flexíveis têm desempenho melhor do que builds que dependem de um traço específico.
-
-**Quantas mutações devo manter ativas ao mesmo tempo?**
-Preencha seus slots iniciais rapidamente com traços baratos e habilitadores, mas reserve seu último slot ou dois para escolhas flexíveis. Deixar espaço para se adaptar quase sempre vale mais do que um aumento marginal de atributo.
-
-**As mutações são mantidas entre runs?**
-Na maioria das implementações, apenas opções desbloqueadas ou progressão permanente são mantidas — os traços em si são reselecionados a cada run. É por isso que aprender o sistema de mutação do Evolve a Cell importa mais do que memorizar qualquer build específica.
+**Como encontro os chefes?**
+A página diz que você cresce muito e derrota chefes gigantes, mas não os nomeia nem lista localizações. Jogue, cresça e explore.
